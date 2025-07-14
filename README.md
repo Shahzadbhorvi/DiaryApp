@@ -34,4 +34,4 @@
 
 This project is ideal for beginners learning **ASP.NET MVC** and **Bootstrap** while implementing basic CRUD operations. Contributions and feedback are welcome!  
 
-🌟 **Happy Coding!** 🌟
+
